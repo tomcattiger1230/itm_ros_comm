@@ -59,6 +59,7 @@ add_message_files(
   AttitudeCommand.msg
   UavState.msg
   PositionCommand.msg
+  manipulator_state.msg
 )
 
 ## Generate services in the 'srv' folder

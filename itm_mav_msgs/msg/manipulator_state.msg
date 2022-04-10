@@ -1,0 +1,2 @@
+float64 angle
+bool magnet_state
