@@ -17,6 +17,8 @@ float64 pitch_rate_des
 float64 yaw_rate_des
 float64 thrust_des
 bool input_given
+bool alpha_given
+bool alpha_rate_given
 float64[4] q
 float64[2] cube_x
 float64[2] cube_y
