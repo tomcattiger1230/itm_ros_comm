@@ -2,3 +2,4 @@ uint32 index
 itm_mav_msgs/itm_trajectory_point[] traj
 ---
 bool success
+uint32 traj_length
